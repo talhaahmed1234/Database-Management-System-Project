@@ -1,2 +1,2 @@
 # Database-Management-System-Project
-This is a project of the course "database management system" and the title of our project is "E-Commerce Business Management System" comprising of the language "Python" and using SQL LITE as our database.
+This is a project of the course "Database Management Systems" and the title of our project is "E-Commerce Business Management System" comprising of the language "Python", we used "Tkinter" library of Python for graphical user interface(gui) and used "SQL LITE" software for our database.
